@@ -13,9 +13,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Thomas Nynas | Senior  Full Stack Python Engineer",
+  title: "Thomas Nynas | Senior Full Stack Engineer",
   description:
-    "Portfolio of Thomas Nynas, Full-Stack Python Engineer and AI Software Engineer specializing in machine learning, AI development, and scalable web applications.",
+    "Portfolio of Thomas Nynas, Senior Full Stack Engineer and AI Software Engineer specializing in AI development, Data Engineering and scalable web applications.",
     generator: 'Thomas Nynas'
 }
 

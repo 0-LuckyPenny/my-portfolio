@@ -74,18 +74,18 @@ export default function EnhancedFooter() {
             >
               <div className="font-bold text-xl mb-4">Thomas Nynas</div>
               <p className="text-muted-foreground mb-6">
-                Full-Stack Python Engineer and AI Software Engineer specializing in machine learning, AI development, and scalable web applications.
+                Senior Full Stack Engineer and AI Software Engineer specializing in AI development, Data Engineering and scalable web applications.
               </p>
 
               <div className="flex gap-3">
                 <SocialButton
                   icon={<Github className="h-5 w-5" />}
-                  url="https://github.com/0-LuckyPenny"
+                  url="https://github.com/thomasnynas12"
                   label="GitHub"
                 />
                 <SocialButton
                   icon={<Linkedin className="h-5 w-5" />}
-                  url="https://www.linkedin.com/in/thomas-nynas-616587350/"
+                  url="https://www.linkedin.com/in/thomas-nynas-b31b11361/"
                   label="LinkedIn"
                 />
                 {/* <SocialButton icon={<Twitter className="h-5 w-5" />} url="https://twitter.com" label="Twitter" /> */}

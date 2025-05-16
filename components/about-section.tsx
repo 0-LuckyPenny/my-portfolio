@@ -36,7 +36,7 @@ export default function AboutSection() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-end">
                 <div className="p-4 text-white">
                   <p className="font-medium">Thomas Nynas</p>
-                  <p className="text-sm text-white/80">Senior  Full Stack Python Engineer</p>
+                  <p className="text-sm text-white/80">Senior Full Stack Engineer</p>
                 </div>
               </div>
             </div>
@@ -85,7 +85,7 @@ export default function AboutSection() {
         <div>
           <StaggeredContainer>
             <StaggerItem>
-              <h3 className="text-2xl font-bold mb-4">Senior  Full Stack Python Engineer & AI Software Engineer</h3>
+              <h3 className="text-2xl font-bold mb-4">Senior  Full Stack Engineer & AI Software Engineer</h3>
             </StaggerItem>
 
             <StaggerItem>
@@ -99,7 +99,7 @@ export default function AboutSection() {
 
             <StaggerItem>
               <p className="text-muted-foreground mb-6">
-                As I explored AI and machine learning, I specialized in predictive analytics, NLP, and computer vision, 
+                As I explored AI and Data Engineering, I specialized in predictive analytics, NLP, and computer vision, 
                 integrating AI models into web applications. With experience in training and deploying machine 
                 learning models and handling large-scale data, I build high-performance applications that merge web technologies with AI innovation.
               </p>
@@ -113,7 +113,7 @@ export default function AboutSection() {
                 </Badge>
                 <Badge className="px-3 py-1.5 bg-purple-500/20 text-purple-500 border-purple-500/30 hover:bg-purple-500/30 transition-colors">
                   <GraduationCap className="h-3.5 w-3.5 mr-1" />
-                  Machine learning
+                  Data Engineering
                 </Badge>
                 <Badge className="px-3 py-1.5 bg-green-500/20 text-green-500 border-green-500/30 hover:bg-green-500/30 transition-colors">
                   <Heart className="h-3.5 w-3.5 mr-1" />
@@ -134,7 +134,7 @@ export default function AboutSection() {
               </Button>
               <Button variant="outline" className="ml-3 gap-2 group" asChild>
                 <a
-                  href="https://www.linkedin.com/in/thomas-nynas-616587350/"
+                  href="https://www.linkedin.com/in/thomas-nynas-b31b11361/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

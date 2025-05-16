@@ -55,7 +55,7 @@ const projects = [
     technologies: ["React", "Python", "PostgreSQL", "Redis", "AWS", "AI", "Docker"],
     imageUrl: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/tablet-J7Ghtw4llcBSyvAX9EnWBvGoX31seq.png",
     demoUrl: "https://manageplus.io/",
-    githubUrl: "https://github.com/0-LuckyPenny",
+    githubUrl: "https://github.com/thomasnynas12",
     color: "from-blue-600 to-violet-600",
     featured: true,
     completed: "2022",
@@ -87,7 +87,7 @@ const projects = [
     technologies: ["Next.js","Django", "AI", "TypeScript", "MongoDB", "Tailwind CSS", "Vercel"],
     imageUrl: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/tablet1-6HYb26RV8u43rxv6bpAt9aOe9IhQFB.png",
     demoUrl: "https://golive.shop/",
-    githubUrl: "https://github.com/0-LuckyPenny",
+    githubUrl: "https://github.com/thomasnynas12",
     color: "from-gray-100 to-red-600",
     featured: true,
     completed: "2024",
@@ -105,8 +105,8 @@ const projects = [
       "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/projects-details-images/goliveshop-details-image3-GxM1Nlrio5M0LMKHFCiOF4vKFNgzMb.png",
       "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/projects-details-images/goliveshop-details-image4-dsuEycEaTmFgm49xFOhFVBOVXUN7KZ.png",
     ],
-    challenges:"Integrating data from multiple sales channels and ensuring accurate targeting and personalization can be complex, requiring advanced machine learning algorithms. Additionally, efficiently managing ad budgets, performance tracking, and ensuring compliance with privacy regulations pose significant challenges.",
-    implements:"Implemented real-time data synchronization from multiple sales channels and integrated machine learning algorithms for personalized ad targeting, optimizing campaign performance and ROI.",
+    challenges:"Integrating data from multiple sales channels and ensuring accurate targeting and personalization can be complex, requiring advanced Data Engineering algorithms. Additionally, efficiently managing ad budgets, performance tracking, and ensuring compliance with privacy regulations pose significant challenges.",
+    implements:"Implemented real-time data synchronization from multiple sales channels and integrated Data Engineering algorithms for personalized ad targeting, optimizing campaign performance and ROI.",
   },
   {
     id: 4,
@@ -147,17 +147,17 @@ const projects = [
     description: "End to End Promptable Semantic Segmentation project from traning to inferencing a model on LandCover.ai data",
     longDescription:
       "The project begins with data collection, where LandCover.ai's geospatial dataset is used, typically containing satellite imagery with labeled land cover classes. The next step is preprocessing, which includes data augmentation, resizing, and normalizing the images to prepare them for model training",
-    technologies: ["Landcover", "ML", "Neural Network", "Machine Learning", "AI", "Deep Learning"],
+    technologies: ["Landcover", "ML", "Neural Network", "Data Engineering", "AI", "Deep Learning"],
     imageUrl: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/projects-details-images/images-JfGOoIIfbct0bXy3pCSvTTDwqkBPgN.jpg",
     demoUrl: "#",
-    githubUrl: "https://github.com/0-LuckyPenny/land-cover-semantic",
+    githubUrl: "https://github.com/thomasnynas12/landscape-detector",
     color: "from-purple-600 to-pink-600",
     featured: false,
     completed: "2023",
     teamSize: 2,
     difficulty: 5,
     achievements: [
-      "Enhanced land cover classification accuracy by 20% using advanced machine learning models.",
+      "Enhanced land cover classification accuracy by 20% using advanced Data Engineering models.",
       "Reduced processing time by 35% through optimized image pre-processing techniques.",
       "Enabled the system to process high-resolution satellite images efficiently for large-scale mapping.",
       "Implemented real-time land cover updates, aiding in timely environmental decision-making.",
@@ -178,10 +178,10 @@ const projects = [
     description: "Automatically Group your Images by Faces with an end-to-end Artificial Intelligence App",
     longDescription:
       "An end-to-end Artificial Intelligence app designed to automatically group images by faces leverages deep learning and computer vision techniques to streamline the process of organizing and managing image collections.",
-    technologies: ["Python", "OpenCV", "Deep Learning", "Face Detection", "Machine Learning"],
+    technologies: ["Python", "OpenCV", "Deep Learning", "Face Detection", "Data Engineering"],
     imageUrl: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/projects-details-images/images%20%2827%29-FhpUNWEqwg48rNJVYiSneYnF7Ng8p8.jpg",
     demoUrl: "#",
-    githubUrl: "https://github.com/0-LuckyPenny/Face-Clustering",
+    githubUrl: "https://github.com/thomasnynas12/face-recognition-using-deep-learning",
     color: "from-green-600 to-teal-600",
     featured: false,
     completed: "2023",
@@ -216,7 +216,7 @@ const projects = [
     color: "from-amber-600 to-orange-600",
     featured: false,
     completed: "2022",
-    teamSize: 2,
+    teamSize: 4,
     difficulty: 3,
     achievements: [
       "Improved site navigation and interface, resulting in a 30% increase in user engagement.",
@@ -247,7 +247,7 @@ const projects = [
     color: "from-blue-600 to-cyan-600",
     featured: false,
     completed: "2022",
-    teamSize: 1,
+    teamSize: 5,
     difficulty: 3,
     achievements: [
       "Developed a personalized recommendation engine that increased user engagement by 25%.",
@@ -355,7 +355,7 @@ export default function RedesignedProjects() {
       <SectionContainer id="projects" className="relative">
         <SectionHeader
           title="Project Portfolio"
-          subtitle="Explore my portfolio of AI, machine learning, and software development projects."
+          subtitle="Explore my portfolio of AI, Data Engineering, and software development projects."
         />
         <div className="flex justify-center items-center py-20">
           <Loader2 className="h-8 w-8 animate-spin text-primary mr-2" />
@@ -383,7 +383,7 @@ export default function RedesignedProjects() {
 
       <SectionHeader
         title="Project Portfolio"
-        subtitle="Explore my portfolio of AI, machine learning, and software development projects. Each project demonstrates different skills and technologies."
+        subtitle="Explore my portfolio of AI, Data Engineering, and software development projects. Each project demonstrates different skills and technologies."
       />
 
       {featuredProjects.length > 0 && (
@@ -616,7 +616,7 @@ export default function RedesignedProjects() {
                   <div>
                     <Badge className="mb-2">
                       {selectedProject.category === "ai"
-                        ? "AI & Machine Learning"
+                        ? "AI & Data Engineering"
                         // : selectedProject.category === "web"
                         //   ? "Web Development"
                           // : selectedProject.category === "data"

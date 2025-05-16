@@ -15,7 +15,7 @@ export default function Hero() {
 
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
         <Badge variant="secondary" className="w-fit mb-8 bg-secondary text-secondary-foreground">
-          Senior  Full Stack Python Engineer
+          Senior  Full Stack Engineer
         </Badge>
 
         <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-happy-hearts to-golden-nugget bg-clip-text text-transparent">
@@ -23,11 +23,11 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
-          Full-Stack Python Engineer and AI Software Engineer specializing in machine learning, AI development, and scalable web applications.
+          Senior Full Stack Engineer and AI Software Engineer specializing in Data Engineering, AI development, and scalable web applications.
         </p>
 
         <div className="flex flex-wrap gap-4 mb-8">
-          {["Machine Learning", "Generative AI", "Web Application", "NLP"].map((skill) => (
+          {["Data Engineering", "Generative AI", "Web Application", "NLP"].map((skill) => (
             <Badge key={skill} variant="outline" className="bg-accent/10 text-accent-foreground border-accent/20">
               {skill}
             </Badge>
@@ -43,8 +43,8 @@ export default function Hero() {
 
         <div className="flex gap-4">
           {[
-            { icon: Github, href: "https://github.com/0-LuckyPenny" },
-            { icon: Linkedin, href: "https://www.linkedin.com/in/thomas-nynas-616587350/" },
+            { icon: Github, href: "https://github.com/thomasnynas12" },
+            { icon: Linkedin, href: "https://www.linkedin.com/in/thomas-nynas-b31b11361/" },
             { icon: Mail, href: "mailto:contact@example.com" },
           ].map((social, index) => (
             <Button key={index} variant="ghost" size="icon" className="hover:bg-accent/10" asChild>

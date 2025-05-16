@@ -23,19 +23,19 @@ type SkillLevel = "All" | "Expert" | "Advanced" | "Intermediate"
 
 // Skill data
 const skillCategories = [
-  {
-    icon: <Laptop className="h-6 w-6" />,
-    title: "Machine Learning & AI",
-    skills: [
-      { name: "Web Application", level: "Advanced", color: "blue", years: 3 },
-      { name: "Reinforcement Learning", level: "Advanced", color: "blue", years: 3 },
-      { name: "MLOps", level: "Intermediate", color: "blue", years: 1.5 },
-      { name: "Deep Learning", level: "Expert", color: "green", years: 5 },
-      { name: "NLP", level: "Expert", color: "green", years: 4.5 },
-      { name: "Voice Cloning", level: "Advanced", color: "blue", years: 2.5 },
-      { name: "Generative AI", level: "Advanced", color: "green", years: 3 },
-    ],
-  },
+  // {
+  //   icon: <Laptop className="h-6 w-6" />,
+  //   title: "AI",
+  //   skills: [
+  //     { name: "Web Application", level: "Advanced", color: "blue", years: 3 },
+  //     { name: "Reinforcement Learning", level: "Advanced", color: "blue", years: 3 },
+  //     { name: "MLOps", level: "Intermediate", color: "blue", years: 1.5 },
+  //     { name: "Deep Learning", level: "Expert", color: "green", years: 5 },
+  //     { name: "NLP", level: "Expert", color: "green", years: 4.5 },
+  //     { name: "Voice Cloning", level: "Advanced", color: "blue", years: 2.5 },
+  //     { name: "Generative AI", level: "Advanced", color: "green", years: 3 },
+  //   ],
+  // },
   {
     icon: <Code className="h-6 w-6" />,
     title: "Programming & Development",
@@ -171,7 +171,7 @@ export default function Skills() {
       >
         <h2 className="text-3xl font-bold text-center mb-4">Technical Skills</h2>
         <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-          A comprehensive overview of my technical expertise across various domains, from machine learning and AI to
+          A comprehensive overview of my technical expertise across various domains, from Data Engineering and AI to
           software development.
         </p>
       </motion.div>

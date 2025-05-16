@@ -47,7 +47,7 @@ const caseStudies = [
   },
   {
     id: 2,
-    title: "Scaling Machine Learning Infrastructure",
+    title: "Scaling Data Engineering Infrastructure",
     icon: <Code className="h-5 w-5" />,
     description:
       "How we designed and implemented a scalable ML infrastructure to support thousands of models in production.",
@@ -65,7 +65,7 @@ const caseStudies = [
     bgColor: "from-green-900/50 to-teal-900/50",
     details: {
       overview:
-        "This case study details the architecture and implementation of a scalable machine learning infrastructure capable of supporting thousands of models in production. The system was designed to handle high throughput while maintaining cost efficiency.",
+        "This case study details the architecture and implementation of a scalable Data Engineering infrastructure capable of supporting thousands of models in production. The system was designed to handle high throughput while maintaining cost efficiency.",
       challenges: [
         "Slow deployment process taking days to move models to production",
         "High infrastructure costs due to inefficient resource utilization",

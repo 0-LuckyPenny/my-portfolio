@@ -9,7 +9,7 @@ import { useIsClient } from "@/hooks/use-is-client"
 
 // Skills data for the globe
 const skills = [
-  // Machine Learning & AI
+  // AI
   { name: "Deep Learning", category: "AI", level: 90 },
   { name: "NLP", category: "AI", level: 85 },
   { name: "Web Application", category: "AI", level: 85 },

@@ -12,7 +12,7 @@ function SkillsFallback() {
     <section id="skills" className="py-12">
       <h2 className="text-3xl font-bold text-center mb-4">Technical Skills</h2>
       <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-        A comprehensive overview of my technical expertise across various domains, from machine learning and AI to
+        A comprehensive overview of my technical expertise across various domains, from Data Engineering and AI to
         software development.
       </p>
       <div className="flex justify-center items-center py-20">

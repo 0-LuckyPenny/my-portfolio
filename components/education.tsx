@@ -16,12 +16,12 @@ export default function Education() {
           </div>
           <div className="flex justify-between items-center mt-2">
             <div className="text-muted-foreground">Alderson Broaddus University</div>
-            <div>Apr 2016 - May 2019</div>
+            <div>Apr 2015 - May 2019</div>
           </div>
           <div className="text-muted-foreground">Philippi, West Virginia</div>
           <div className="text-muted-foreground">GPA: 4..1</div>
           <div className="text-muted-foreground mt-1">
-            Relevant Coursework: Machine Learning, Data Structures, Software Development, Network Science, Data
+            Relevant Coursework: Data Engineering, Data Structures, Software Development, Network Science, Data
             Visualization
           </div>
         </CardHeader>
@@ -30,7 +30,7 @@ export default function Education() {
             <div>
               <h3 className="text-lg font-semibold mb-4">Key Coursework</h3>
               <div className="grid grid-cols-2 gap-4">
-                <CourseItem name="Machine Learning" grade="A" />
+                <CourseItem name="Data Engineering" grade="A" />
                 <CourseItem name="Data Structures" grade="A" />
                 <CourseItem name="Computational Physics" grade="A" />
                 <CourseItem name="Network Science" grade="A" />

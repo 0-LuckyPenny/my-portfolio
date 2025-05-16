@@ -1,10 +1,10 @@
-# Thomas Nynas - Senior Full Stack Python Engineer & AI Software Engineer
+# Thomas Nynas - Senior Full Stack Engineer & AI Software Engineer
 
-Welcome to my portfolio! I'm a passionate and skilled Senior Full Stack Python Engineer with over 7 years of experience in building scalable web applications and AI-driven solutions. I specialize in backend development using Python frameworks, AI integrations, cloud infrastructure, and real-time data processing.
+Welcome to my portfolio! I'm a passionate and skilled Senior Full Stack Engineer with over 7 years of experience in building scalable web applications and AI-driven solutions. I specialize in backend development using Python frameworks, AI integrations, cloud infrastructure, and real-time data processing.
 
 ## 💼 About Me
 
-I have a diverse background in full-stack web development, AI, and machine learning, having worked on projects across e-commerce, SaaS, and real-time communication platforms. My journey began with backend development and gradually evolved to AI solutions, including predictive analytics, NLP, and computer vision.
+I have a diverse background in full-stack web development, AI, and Data Engineering, having worked on projects across e-commerce, SaaS, and real-time communication platforms. My journey began with backend development and gradually evolved to AI solutions, including predictive analytics, NLP, and computer vision.
 
 I am committed to delivering high-performance, scalable applications that merge web technologies with AI innovation.
 
@@ -29,10 +29,10 @@ Built a fully functional e-commerce platform with real-time inventory tracking a
 Created an AI-powered marketing analytics dashboard for an e-commerce company, providing actionable insights using predictive models for customer behavior.
 
 - **Tech Stack**: Python (Flask), TensorFlow, PostgreSQL, AWS
-- **Key Features**: Machine learning models for predictive analytics, real-time data visualization, and custom reporting tools.
+- **Key Features**: Data Engineering models for predictive analytics, real-time data visualization, and custom reporting tools.
 
 ### **3. Land Cover Identification System**  
-Developed a land cover classification system using satellite images and machine learning models to track environmental changes.
+Developed a land cover classification system using satellite images and Data Engineering models to track environmental changes.
 
 - **Tech Stack**: Python (TensorFlow), OpenCV, Google Earth Engine
 - **Key Features**: Real-time satellite image analysis, automated classification of land types.
@@ -45,7 +45,7 @@ Developed a land cover classification system using satellite images and machine 
 
 ## 📂 Get in Touch
 
-You can find my projects and code on my [GitHub](https://github.com/0-LuckyPenny). Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/thomas-nynas/](https://www.linkedin.com/in/thomas-nynas-616587350/)).
+You can find my projects and code on my [GitHub](https://github.com/thomasnynas12). Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/thomas-nynas/](https://www.linkedin.com/in/thomas-nynas-b31b11361/)).
 
 ---
 

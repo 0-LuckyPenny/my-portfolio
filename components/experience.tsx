@@ -9,7 +9,7 @@ export default function Experience() {
 
       <div className="space-y-8 mt-12">
         <ExperienceCard
-          title="Senior  Full Stack Python Engineer"
+          title="Senior  Full Stack Engineer"
           company="AlfaHive"
           period="Jun 2022 - Present"
           achievements={[
@@ -18,7 +18,7 @@ export default function Experience() {
             "Optimized deployment processes, resulting in faster delivery times and more reliable updates.",
             "Mentored junior developers, fostering team growth and improving overall productivity and collaboration.",
           ]}
-          technologies={["Python", "AI", "Machine Learning", "AWS", "Docker", "React", "Angular"]}
+          technologies={["Python", "AI", "Data Engineering", "AWS", "Docker", "React", "Angular"]}
           impact={{
             title: "Overall Impact",
             description: "Positively impacted over 20,000 NYC residents through data-driven community programs",

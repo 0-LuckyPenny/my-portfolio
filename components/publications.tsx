@@ -24,9 +24,9 @@ export default function Publications() {
             />
 
             <PublicationCard
-              title="Machine Learning for Cybersecurity Cookbook"
+              title="Data Engineering for Cybersecurity Cookbook"
               type="Book"
-              description="Practical recipes for implementing machine learning in cybersecurity applications, with a focus on ethical hacking and security for social justice initiatives."
+              description="Practical recipes for implementing Data Engineering in cybersecurity applications, with a focus on ethical hacking and security for social justice initiatives."
               date="2022"
               link="#"
               journal="O'Reilly Media"

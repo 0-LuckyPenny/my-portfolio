@@ -20,7 +20,7 @@ interface SkillGroup {
 
 const skillsData: SkillGroup[] = [
   {
-    name: "Machine Learning",
+    name: "Data Engineering",
     color: "#8b5cf6",
     skills: [
       { area: "Deep Learning", value: 90, fullMark: 100 },

@@ -24,7 +24,7 @@ const testimonials = [
     id: 2,
     content:
       "Working with Thomas was a pleasure. He expertly implemented AI features into our platform using Django and Python. His React-based interfaces were clean, intuitive, and made our app easier to use. A true professional who brought innovative solutions.",
-    author: "Marcus Chen",
+    author: "Marcus J",
     role: "CEO",
     avatar: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/avatar/client1-RNmWN9LUrBj3vc9R72elYja2y6hJ9w.png",
     company: "",

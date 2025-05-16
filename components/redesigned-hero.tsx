@@ -54,7 +54,7 @@ export default function RedesignedHero() {
   // Typing effect for the subtitle
   const [displayedText, setDisplayedText] = useState("")
   const fullText =
-    "   Full-Stack Python Engineer and AI Software Engineer specializing in machine learning, AI development, and scalable web applications."
+    "   Senior Full Stack Engineer and AI Software Engineer specializing in Data Engineering, AI development, and scalable web applications."
 
   useEffect(() => {
     if (!isClient) return
@@ -74,7 +74,7 @@ export default function RedesignedHero() {
 
   // Function to highlight specific terms in the text
   const highlightText = (text: string) => {
-    const termsToHighlight = ["AI", "machine learning", "generative AI", "cybersecurity", "STEM"]
+    const termsToHighlight = ["AI", "Data Engineering", "generative AI", "cybersecurity", "STEM"]
     let highlightedText = text
 
     termsToHighlight.forEach((term) => {
@@ -102,7 +102,7 @@ export default function RedesignedHero() {
         <div className="order-2 md:order-1 text-center">
           <ScrollReveal>
             <Badge className="mb-4 px-3 py-1.5 text-sm bg-primary/20 border-primary/30 text-primary">
-              Senior  Full Stack Python Engineer
+              Senior  Full Stack Engineer
             </Badge>
           </ScrollReveal>
 
@@ -133,7 +133,7 @@ export default function RedesignedHero() {
                 variant="outline"
                 className="px-2 py-1 sm:px-3 sm:py-1.5 backdrop-blur-sm border-estragon/30 hover:bg-estragon/10 transition-colors"
               >
-                Machine Learning
+                Data Engineering
               </Badge>
               <Badge
                 variant="outline"
@@ -190,7 +190,7 @@ export default function RedesignedHero() {
                 className="rounded-full hover:bg-succulent/10 transition-all duration-300 hover:scale-110"
               >
                 <a
-                  href="https://github.com/0-LuckyPenny"
+                  href="https://github.com/thomasnynas12"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
@@ -205,7 +205,7 @@ export default function RedesignedHero() {
                 className="rounded-full hover:bg-white/10 transition-all duration-300 hover:scale-110"
               >
                 <a
-                  href="https://www.linkedin.com/in/thomas-nynas-616587350/"
+                  href="https://www.linkedin.com/in/thomas-nynas-b31b11361/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"

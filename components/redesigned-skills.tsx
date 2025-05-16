@@ -47,12 +47,12 @@ const skillCategories = [
     icon: <Code className="h-5 w-5" />,
     color: "from-emerald-500 to-green-500",
   },
-  {
-    id: "ml-ai",
-    name: "Machine Learning & AI",
-    icon: <Laptop className="h-5 w-5" />,
-    color: "from-blue-500 to-indigo-500",
-  },
+  // {
+  //   id: "ml-ai",
+  //   name: "AI",
+  //   icon: <Laptop className="h-5 w-5" />,
+  //   color: "from-blue-500 to-indigo-500",
+  // },
   // {
   //   id: "audio",
   //   name: "Audio & Voice Tech",
@@ -271,7 +271,7 @@ export default function RedesignedSkills() {
     <SectionContainer id="skills" className="bg-gradient-to-b from-background to-background/95">
       <SectionHeader
         title="Technical Skills"
-        subtitle="A comprehensive overview of my technical expertise across various domains, from machine learning and AI to software development."
+        subtitle="A comprehensive overview of my technical expertise across various domains, from Data Engineering and AI to software development."
       />
 
       <ScrollReveal>

@@ -40,7 +40,7 @@ const blogPosts = [
     id: 3,
     title: "The Future of MLOps: Trends and Best Practices",
     excerpt:
-      "An overview of emerging trends in MLOps and recommendations for implementing robust machine learning pipelines.",
+      "An overview of emerging trends in MLOps and recommendations for implementing robust Data Engineering pipelines.",
     coverImage: "/placeholder.svg?height=400&width=600",
     date: "February 10, 2025",
     readTime: "10 min read",

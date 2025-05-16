@@ -22,7 +22,7 @@ interface TimelineEvent {
 const timelineData: TimelineEvent[] = [
   {
     id: "rfc",
-    title: "Senior  Full Stack Python Engineer",
+    title: "Senior  Full Stack Engineer",
     company: "AlfaHive",
     location: "Big Sky, MT, USA",
     period: "June 2022 - Present",
@@ -34,7 +34,7 @@ const timelineData: TimelineEvent[] = [
       "Optimized deployment processes, resulting in faster delivery times and more reliable updates.",
       "Mentored junior developers, fostering team growth and improving overall productivity and collaboration.",
     ],
-    skills: ["Python", "Machine Learning", "AWS", "Docker", "GCP", "Community Development"],
+    skills: ["Python", "Data Engineering", "AWS", "Docker", "GCP", "Community Development"],
     color: "bg-gradient-to-r from-indigo-600 to-purple-600",
   },
   {
