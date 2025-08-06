@@ -62,19 +62,7 @@ const skillCategories = [
       { name: "MLflow", level: "Advanced", color: "blue", years: 3 },
     ],
   },
-  {
-    icon: <Database className="h-6 w-6" />,
-    title: "Data Science & Analytics",
-    skills: [
-      { name: "Data Mining", level: "Advanced", color: "blue", years: 4 },
-      { name: "Business Intelligence", level: "Intermediate", color: "blue", years: 2 },
-      { name: "Big Data Processing", level: "Advanced", color: "blue", years: 3 },
-      { name: "Pandas", level: "Expert", color: "blue", years: 5 },
-      { name: "Tableau", level: "Intermediate", color: "blue", years: 2 },
-      { name: "Data Visualization", level: "Advanced", color: "green", years: 4 },
-      { name: "Predictive Modeling", level: "Expert", color: "green", years: 5 },
-    ],
-  },
+
   {
     icon: <Cloud className="h-6 w-6" />,
     title: "Cloud & Infrastructure",

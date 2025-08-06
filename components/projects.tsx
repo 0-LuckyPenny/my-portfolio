@@ -101,22 +101,7 @@ const projects = [
     details:
       "An application that analyzes the network structure of Wikipedia to find the shortest path between any two articles. The tool uses graph theory algorithms to navigate through the complex web of hyperlinks.",
   },
-  {
-    id: 6,
-    title: "NYC Education Analytics",
-    category: "Data Science",
-    description: "Data analysis and visualization platform for NYC public school performance metrics.",
-    technologies: ["Python", "Pandas", "Scikit-learn", "Tableau"],
-    difficulty: 4,
-    completed: "2022-05-22",
-    teamSize: 4,
-    featured: false,
-    demoUrl: "#",
-    githubUrl: "#",
-    images: ["/placeholder.svg?height=400&width=600"],
-    details:
-      "A comprehensive data analysis platform that processes and visualizes performance metrics from NYC public schools. The system includes predictive models for identifying at-risk students and schools that need additional resources.",
-  },
+
 ]
 
 // Filter types

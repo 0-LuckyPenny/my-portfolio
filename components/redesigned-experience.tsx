@@ -30,7 +30,7 @@ const experiences = [
     title: "Senior Full Stack Engineer",
     company: "Vouched",
     location: "Seattle, WA, USA",
-    period: "Jan 2023 - Present",
+    period: "Jun 2022 - Present",
     type: "Remote Work",
     description:
     "Led the creation of high-performance web applications with AI-powered features, crafted seamless APIs for better integration, optimized deployment processes for faster delivery, and mentored junior developers, driving team success and innovation.",
@@ -50,10 +50,10 @@ const experiences = [
   },
   {
     id: "2",
-    title: "Full Stack Python Developer",
+    title: "Full Stack Developer",
     company: "Leidos",
     location: "Reston, VA, USA",
-    period: "Jun 2021 - Dec 2022",
+    period: "Jun 2020 - May 2022",
     type: "Remote Work",
     description:
       "developed scalable web applications, designed APIs, optimized backend processes, automated deployment, mentored junior developers, and integrated AI solutions to drive innovation.",
@@ -96,10 +96,10 @@ const experiences = [
   // },
   {
     id: "4",
-    title: "Python Developer",
+    title: "Backend Developer",
     company: "Leiodos",
     location: "| Reston, VA",
-    period: "May 2020 - May 2021",
+    period: "May 2019 - May 2020",
     type: "Remote Work",
     description:
     "architected end-to-end AI solutions, led cross-functional AI initiatives, designed scalable infrastructure, integrated LLMs, and ensured successful enterprise AI adoption.",
@@ -119,10 +119,10 @@ const experiences = [
   },
   {
     id: "5",
-    title: "Data Specialist",
+    title: "Python Developer",
     company: "Zendesk",
     location: "San Francisco, CA, USA",
-    period: "July 2021 - Mar 2023",
+    period: "Apr 2018 - May 2019",
     type: "Remote Work",
     description:
     "designed and deployed Data Engineering models, automated data pipelines, collaborated with data teams, enhanced model performance, and contributed to AI-powered product features.",

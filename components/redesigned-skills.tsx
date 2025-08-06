@@ -66,12 +66,7 @@ const skillCategories = [
     icon: <Cpu className="h-5 w-5" />,
     color: "from-purple-500 to-violet-500",
   },
-  {
-    id: "data",
-    name: "Data Science",
-    icon: <Database className="h-5 w-5" />,
-    color: "from-amber-500 to-yellow-500",
-  },
+
   // {
   //   id: "network",
   //   name: "Network Analysis",
