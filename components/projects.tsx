@@ -165,7 +165,7 @@ export default function Projects() {
       >
         <h2 className="text-3xl font-bold text-center mb-4">Projects</h2>
         <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-          Explore my portfolio of AI, Data Engineering, and software development projects. Each project demonstrates
+          Explore my portfolio of AI and software development projects. Each project demonstrates
           different skills and technologies.
         </p>
       </motion.div>

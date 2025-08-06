@@ -23,7 +23,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
-          Senior Full Stack Engineer and AI Software Engineer specializing in Data Engineering, AI development, and scalable web applications.
+          Senior Full Stack Engineer and AI Software Engineer specializing in AI development, and scalable web applications.
         </p>
 
         <div className="flex flex-wrap gap-4 mb-8">

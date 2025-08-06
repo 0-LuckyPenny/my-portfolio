@@ -99,7 +99,7 @@ export default function AboutSection() {
 
             <StaggerItem>
               <p className="text-muted-foreground mb-6">
-                As I explored AI and Data Engineering, I specialized in predictive analytics, NLP, and computer vision, 
+                As I explored AI. I specialized in predictive analytics, NLP, and computer vision, 
                 integrating AI models into web applications. With experience in training and deploying machine 
                 learning models and handling large-scale data, I build high-performance applications that merge web technologies with AI innovation.
               </p>
@@ -111,10 +111,7 @@ export default function AboutSection() {
                   <Briefcase className="h-3.5 w-3.5 mr-1" />
                   AI Development
                 </Badge>
-                <Badge className="px-3 py-1.5 bg-purple-500/20 text-purple-500 border-purple-500/30 hover:bg-purple-500/30 transition-colors">
-                  <GraduationCap className="h-3.5 w-3.5 mr-1" />
-                  Data Engineering
-                </Badge>
+
                 <Badge className="px-3 py-1.5 bg-green-500/20 text-green-500 border-green-500/30 hover:bg-green-500/30 transition-colors">
                   <Heart className="h-3.5 w-3.5 mr-1" />
                   Software Development
@@ -126,7 +123,7 @@ export default function AboutSection() {
               <Button className="gap-2 group shadow-lg hover:shadow-primary/20 transition-all duration-300">
                 <Download className="h-4 w-4 group-hover:animate-bounce" />
                 <a
-                  href="/ThomasResume.pdf"  // Replace this with the actual path to your PDF file
+                  href="/ThomasNynasResume.pdf"  // Replace this with the actual path to your PDF file
                   download="ThomasResume.pdf"  // Optional: Specify a custom name for the downloaded file
                 >
                  Download Resume

@@ -355,7 +355,7 @@ export default function RedesignedProjects() {
       <SectionContainer id="projects" className="relative">
         <SectionHeader
           title="Project Portfolio"
-          subtitle="Explore my portfolio of AI, Data Engineering, and software development projects."
+          subtitle="Explore my portfolio of AI, software development projects."
         />
         <div className="flex justify-center items-center py-20">
           <Loader2 className="h-8 w-8 animate-spin text-primary mr-2" />
@@ -383,7 +383,7 @@ export default function RedesignedProjects() {
 
       <SectionHeader
         title="Project Portfolio"
-        subtitle="Explore my portfolio of AI, Data Engineering, and software development projects. Each project demonstrates different skills and technologies."
+        subtitle="Explore my portfolio of AI and software development projects. Each project demonstrates different skills and technologies."
       />
 
       {featuredProjects.length > 0 && (

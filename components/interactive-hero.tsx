@@ -127,7 +127,7 @@ export default function InteractiveHero() {
             className="max-w-3xl text-lg md:text-xl mb-12 leading-relaxed text-center mx-auto"
           >
             <TypewriterEffect
-              text="Senior Full Stack Engineer and AI Software Engineer specializing in Data Engineering, AI development, and scalable web applications."
+              text="Senior Full Stack Engineer and AI Software Engineer specializing in AI development, and scalable web applications."
               highlightTerms={["AI", "Data Engineering", "generative AI"]}
             />
           </motion.p>

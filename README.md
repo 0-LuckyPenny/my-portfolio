@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm a passionate and skilled Senior Full Stack Engineer
 
 ## 💼 About Me
 
-I have a diverse background in full-stack web development, AI, and Data Engineering, having worked on projects across e-commerce, SaaS, and real-time communication platforms. My journey began with backend development and gradually evolved to AI solutions, including predictive analytics, NLP, and computer vision.
+I have a diverse background in full-stack web development, AI, having worked on projects across e-commerce, SaaS, and real-time communication platforms. My journey began with backend development and gradually evolved to AI solutions, including predictive analytics, NLP, and computer vision.
 
 I am committed to delivering high-performance, scalable applications that merge web technologies with AI innovation.
 

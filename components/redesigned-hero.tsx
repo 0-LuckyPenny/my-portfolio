@@ -54,7 +54,7 @@ export default function RedesignedHero() {
   // Typing effect for the subtitle
   const [displayedText, setDisplayedText] = useState("")
   const fullText =
-    "   Senior Full Stack Engineer and AI Software Engineer specializing in Data Engineering, AI development, and scalable web applications."
+    "   Senior Full Stack Engineer and AI Software Engineer specializing in AI development, and scalable web applications."
 
   useEffect(() => {
     if (!isClient) return
@@ -129,12 +129,7 @@ export default function RedesignedHero() {
 
           <ScrollReveal delay={0.3}>
             <div className="flex flex-wrap gap-2 justify-center md:justify-center mb-6 md:mb-8">
-              <Badge
-                variant="outline"
-                className="px-2 py-1 sm:px-3 sm:py-1.5 backdrop-blur-sm border-estragon/30 hover:bg-estragon/10 transition-colors"
-              >
-                Data Engineering
-              </Badge>
+
               <Badge
                 variant="outline"
                 className="px-2 py-1 sm:px-3 sm:py-1.5 backdrop-blur-sm border-estragon/30 hover:bg-estragon/10 transition-colors"
