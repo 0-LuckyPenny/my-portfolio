@@ -144,13 +144,13 @@ const skillsData = {
   programming: [
     { name: "Python", level: 95 },
     { name: "Django", level: 85 },
+    { name: "FastAPI", level: 80 },
     { name: "JavaScript/TypeScript", level: 90 },
     { name: "REACT", level: 90 },
+    { name: "Next.js", level: 70 },
     { name: "Angular", level: 70 },
     { name: "Vue.js", level: 70 },
     { name: "PostgreSQL", level: 80 },
-    { name: "MongoDB", level: 65 },
-    { name: "Next.js", level: 70 },
   ],
   frameworks: [
     { name: "PyTorch", level: 90 },
