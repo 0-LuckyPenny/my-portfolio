@@ -118,7 +118,7 @@ export default function ResumeDownload() {
                       <span>New York, NY</span>
                       <span>|</span>
                       <a
-                        href="https://www.linkedin.com/in/thomas-nynas-b31b11361/"
+                        href="https://www.linkedin.com/in/thomas-n-20075a372/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:underline"

@@ -200,7 +200,7 @@ export default function RedesignedHero() {
                 className="rounded-full hover:bg-white/10 transition-all duration-300 hover:scale-110"
               >
                 <a
-                  href="https://www.linkedin.com/in/thomas-nynas-b31b11361/"
+                  href="https://www.linkedin.com/in/thomas-n-20075a372/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"

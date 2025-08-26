@@ -191,7 +191,7 @@ const skillsData = {
     { name: "DevOps", level: 80 },
     { name: "Terraform", level: 70 },
     { name: "Jenkins", level: 65 },
-    { name: "AWS Lambda", level: 85 },
+    { name: "Azure", level: 85 },
   ],
   // chatbots: [
   //   { name: "Emotion-Aware Chatbots", level: 85 },

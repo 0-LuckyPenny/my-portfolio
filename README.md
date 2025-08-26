@@ -45,7 +45,7 @@ Developed a land cover classification system using satellite images and Data Eng
 
 ## 📂 Get in Touch
 
-You can find my projects and code on my [GitHub](https://github.com/thomasnynas12). Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/thomas-nynas/](https://www.linkedin.com/in/thomas-nynas-b31b11361/)).
+You can find my projects and code on my [GitHub](https://github.com/thomasnynas12). Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/thomas-nynas/](https://www.linkedin.com/in/thomas-n-20075a372/)).
 
 ---
 
