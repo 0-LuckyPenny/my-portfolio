@@ -91,7 +91,7 @@ export default function EnhancedFooter() {
                 {/* <SocialButton icon={<Twitter className="h-5 w-5" />} url="https://twitter.com" label="Twitter" /> */}
                 <SocialButton
                   icon={<Mail className="h-5 w-5" />}
-                  url="mailto:thomasnynas.genius@gmail.com"
+                  url="mailto:thomasnynas59@gmail.com"
                   label="Email"
                 />
               </div>
@@ -129,7 +129,7 @@ export default function EnhancedFooter() {
               <ul className="space-y-3">
                 <li className="flex items-center gap-3 text-muted-foreground">
                   <Mail className="h-4 w-4 text-primary" />
-                  <span>thomasnynas.genius@gmail.com</span>
+                  <span>thomasnynas59@gmail.com</span>
                 </li>
                 <li className="flex items-center gap-3 text-muted-foreground">
                   <Phone className="h-4 w-4 text-primary" />

@@ -111,7 +111,7 @@ export default function ResumeDownload() {
                     <h1 className="text-2xl font-bold">Thomas Nynas</h1>
                     <p className="text-muted-foreground">Senior  Full Stack Engineer</p>
                     <div className="flex justify-center gap-4 mt-2 text-sm text-muted-foreground">
-                      <span>thomasnynas.genius@gmail.com</span>
+                      <span>thomasnynas59@gmail.com</span>
                       <span>|</span>
                       <span>(917) 831-2482</span>
                       <span>|</span>

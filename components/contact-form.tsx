@@ -83,7 +83,7 @@ export default function ContactForm() {
               </div>
               <div>
                 <div className="text-sm text-muted-foreground">Email</div>
-                <div>thomasnynas.genius@gmail.com</div>
+                <div>thomasnynas59@gmail.com</div>
               </div>
             </div>
 

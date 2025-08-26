@@ -42,7 +42,7 @@ export default function RedesignedHero() {
   const handleContactClick = () => {
     toast({
       title: "Contact Info",
-      description: "Email: thomasnynas.genius@gmail.com | Phone: (917) 831-2482",
+      description: "Email: thomasnynas59@gmail.com | Phone: (917) 831-2482",
       duration: 5000,
     })
   }
@@ -214,7 +214,7 @@ export default function RedesignedHero() {
                 asChild
                 className="rounded-full hover:bg-white/10 transition-all duration-300 hover:scale-110"
               >
-                <a href="mailto:thomasnynas.genius@gmail.com" aria-label="Email">
+                <a href="mailto:thomasnynas59@gmail.com" aria-label="Email">
                   <Mail className="h-5 w-5" />
                 </a>
               </Button>
