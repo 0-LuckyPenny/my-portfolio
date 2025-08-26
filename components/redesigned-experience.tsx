@@ -98,7 +98,7 @@ const experiences = [
     id: "4",
     title: "Backend Developer",
     company: "Elecks",
-    location: "Chicago, IL",
+    location: "Chicago, IL, USA",
     period: "Feb 2018 - Apr 2019",
     type: "Remote Work",
     description:
