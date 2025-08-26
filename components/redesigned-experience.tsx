@@ -28,8 +28,8 @@ const experiences = [
   {
     id: "1",
     title: "Senior Full Stack Engineer",
-    company: "Vouched",
-    location: "Seattle, WA, USA",
+    company: "DockYard Inc",
+    location: "Hingham, MA, USA",
     period: "Jun 2022 - Present",
     type: "Remote Work",
     description:
@@ -51,9 +51,9 @@ const experiences = [
   {
     id: "2",
     title: "Full Stack Developer",
-    company: "Leidos",
-    location: "Reston, VA, USA",
-    period: "Jun 2020 - May 2022",
+    company: "Elecks",
+    location: "Chicago, IL, USA",
+    period: "May 2019 - May 2022",
     type: "Remote Work",
     description:
       "developed scalable web applications, designed APIs, optimized backend processes, automated deployment, mentored junior developers, and integrated AI solutions to drive innovation.",
@@ -97,9 +97,9 @@ const experiences = [
   {
     id: "4",
     title: "Backend Developer",
-    company: "Leiodos",
-    location: "| Reston, VA",
-    period: "May 2019 - May 2020",
+    company: "Elecks",
+    location: "Chicago, IL",
+    period: "Feb 2018 - Apr 2019",
     type: "Remote Work",
     description:
     "architected end-to-end AI solutions, led cross-functional AI initiatives, designed scalable infrastructure, integrated LLMs, and ensured successful enterprise AI adoption.",
@@ -117,29 +117,29 @@ const experiences = [
     ],
     color: "from-indigo-600 to-emerald-600",
   },
-  {
-    id: "5",
-    title: "Python Developer",
-    company: "Zendesk",
-    location: "San Francisco, CA, USA",
-    period: "Apr 2018 - May 2019",
-    type: "Remote Work",
-    description:
-    "designed and deployed Data Engineering models, automated data pipelines, collaborated with data teams, enhanced model performance, and contributed to AI-powered product features.",
-    responsibilities: [
-      "Designed and trained supervised and unsupervised ML models for classification, regression, and recommendation tasks using Scikit-learn and TensorFlow.",
-      "Collaborated with data engineers to build automated pipelines for feature extraction, model training, and deployment using Airflow and Docker.",
-      "Optimized model performance through hyperparameter tuning, cross-validation, and monitoring with MLflow and custom dashboards.",
-      "Worked closely with product teams to integrate AI models into customer-facing features, including real-time predictions and personalization.",
-    ],
-    skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Docker", "Airflow", "MLflow", "Pandas", "AWS SageMaker"],
-    metrics: [
-      { value: "50+", label: "Models Deployed" },
-      { value: "3x", label: "Faster Inference Time" },
-      { value: "98%", label: "Model Accuracy (avg.)" },
-    ],
-    color: "from-green-600 to-emerald-600",
-  },
+  // {
+  //   id: "5",
+  //   title: "Python Developer",
+  //   company: "Zendesk",
+  //   location: "San Francisco, CA, USA",
+  //   period: "Apr 2018 - May 2019",
+  //   type: "Remote Work",
+  //   description:
+  //   "designed and deployed Data Engineering models, automated data pipelines, collaborated with data teams, enhanced model performance, and contributed to AI-powered product features.",
+  //   responsibilities: [
+  //     "Designed and trained supervised and unsupervised ML models for classification, regression, and recommendation tasks using Scikit-learn and TensorFlow.",
+  //     "Collaborated with data engineers to build automated pipelines for feature extraction, model training, and deployment using Airflow and Docker.",
+  //     "Optimized model performance through hyperparameter tuning, cross-validation, and monitoring with MLflow and custom dashboards.",
+  //     "Worked closely with product teams to integrate AI models into customer-facing features, including real-time predictions and personalization.",
+  //   ],
+  //   skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Docker", "Airflow", "MLflow", "Pandas", "AWS SageMaker"],
+  //   metrics: [
+  //     { value: "50+", label: "Models Deployed" },
+  //     { value: "3x", label: "Faster Inference Time" },
+  //     { value: "98%", label: "Model Accuracy (avg.)" },
+  //   ],
+  //   color: "from-green-600 to-emerald-600",
+  // },
   // {
   //   id: "6",
   //   title: "Data Engineer",
