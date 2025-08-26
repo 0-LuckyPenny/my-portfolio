@@ -15,10 +15,10 @@ export default function Education() {
             <CardTitle>Bachelor of Computer Science</CardTitle>
           </div>
           <div className="flex justify-between items-center mt-2">
-            <div className="text-muted-foreground">Alderson Broaddus University</div>
-            <div>Apr 2015 - May 2019</div>
+            <div className="text-muted-foreground">Medaille University</div>
+            <div>Mar 2015 - Mar 2019</div>
           </div>
-          <div className="text-muted-foreground">Philippi, West Virginia</div>
+          <div className="text-muted-foreground">Buffalo, New York</div>
           <div className="text-muted-foreground">GPA: 4..1</div>
           <div className="text-muted-foreground mt-1">
             Relevant Coursework: Data Engineering, Data Structures, Software Development, Network Science, Data
