@@ -116,7 +116,7 @@ const projects = [
       "SnapThePrice finds the best online deals by comparing prices across stores like Amazon and Walmart.",
     longDescription:
       "SnapThePrice compares prices across online stores like Amazon and Walmart, helping users find the best deals instantly. It earns commissions from affiliate links but provides unbiased price comparisons.",
-    technologies: ["Vue.js", "Python", "AWS", "Docker", "Git"],
+    technologies: ["FastAPI", "Vue.js", "Python", "AWS", "Docker", "Git"],
     imageUrl: "https://tvjrf8ogpgevtyum.public.blob.vercel-storage.com/Thomas_portfolio_images/projects-details-images/shopping-snaptheprice-Tqz7UJDkN1KoHftoR8VQVrCuiTzn0a.png",
     demoUrl: "https://snaptheprice.com",
     githubUrl: "https://github.com/",
