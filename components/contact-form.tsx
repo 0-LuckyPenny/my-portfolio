@@ -103,7 +103,7 @@ export default function ContactForm() {
               </div>
               <div>
                 <div className="text-sm text-muted-foreground">Location</div>
-                <div>Arlington, VA</div>
+                <div>Miami, FL</div>
               </div>
             </div>
           </div>

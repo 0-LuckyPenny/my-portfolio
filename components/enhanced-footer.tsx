@@ -137,7 +137,7 @@ export default function EnhancedFooter() {
                 </li>
                 <li className="flex items-center gap-3 text-muted-foreground">
                   <MapPin className="h-4 w-4 text-primary" />
-                  <span>Arlington, VA</span>
+                  <span>Miami, FL</span>
                 </li>
                 <li className="flex items-center gap-3 text-muted-foreground">
                   <Calendar className="h-4 w-4 text-primary" />
