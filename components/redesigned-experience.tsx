@@ -51,7 +51,7 @@ const experiences = [
   {
     id: "2",
     title: "Full Stack Developer",
-    company: "Elecks",
+    company: "Eleks",
     location: "Chicago, IL, USA",
     period: "May 2019 - May 2022",
     type: "Remote Work",
@@ -97,7 +97,7 @@ const experiences = [
   {
     id: "4",
     title: "Backend Developer",
-    company: "Elecks",
+    company: "Eleks",
     location: "Chicago, IL, USA",
     period: "Feb 2018 - Apr 2019",
     type: "Remote Work",
